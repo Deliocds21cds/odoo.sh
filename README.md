@@ -1,2 +1,1 @@
-# odoo.sh
-instalar odoo12
+# run
